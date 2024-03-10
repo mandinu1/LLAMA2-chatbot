@@ -50,7 +50,7 @@ def generate_response(input_user):
                                        "temperature": temperature, "top_p": top_p, "max_length": max_length,
                                        "repetition_penalty": 1
                                        })
-
+#test
 
 st.set_page_config(page_title="💬 MY Llama 2 Chatbot")
 
